@@ -1,0 +1,1 @@
+The game() function is the user-playable game and returns an integer score. The program reads the file 'Hi-score.txt', which may be empty or contain the previous high score. It updates the high score in that file whenever the game() function reaches a new record
